@@ -2,7 +2,7 @@
   "name": "markdownify",
   "version": "1.0.0",
   "scripts": {
-    "start": "shadow-cljs release --verbose app"
+    "build": "shadow-cljs release --verbose app"
   },
   "devDependencies": {
     "shadow-cljs": "^2.8.110"
