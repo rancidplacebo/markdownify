@@ -1,7 +1,6 @@
 .shadow-cljs/
-
 node_modules/
-public/js/
+public/compiledjs/
 *.un~
 .calva/
 .clj-kondo/
