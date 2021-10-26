@@ -1,5 +1,8 @@
 .shadow-cljs/
+
 node_modules/
 public/js/
 *.un~
-
+.calva/
+.clj-kondo/
+.lsp
